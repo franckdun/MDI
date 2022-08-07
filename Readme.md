@@ -1,5 +1,7 @@
 # Monitoring Dashboard Information
 
+	Projet system de traitement de l'information pour une veille informationnelle ultra efficace.
+
 	Sections:
 
 	1 - recherche d'emploi / 
