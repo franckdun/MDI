@@ -1,6 +1,8 @@
 # Monitoring Dashboard Information
 
-<p align="center"><a href="https://github.com/franckdun/MDI/"> <img src="https://img.shields.io/badge/Monitor-Dashboard information-f04c0b" width="300"></a></p>
+<p align="center"><a href="https://github.com/franckdun/MDI/"> <img src="https://img.shields.io/badge/🔭-MDI-f04c0b" width="300"></a></p>
+
+```<p align="#"><a href="https://github.com/franckdun/MDI/"> <img src="https://img.shields.io/badge/🔭-MDI-f04c0b" width="#"></a></p>```
 
 	Projet system de traitement de l'information pour une veille informationnelle ultra efficace.
 
