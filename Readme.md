@@ -1,13 +1,11 @@
-01/08/2022 MODULE 3 Mettez en place un système de veille informationnelle 
-
-	Mise en place d'une organisation de systeme de veille  le (Monitoring Dashboard Information) : 
+# Monitoring Dashboard Information
 
 	Sections:
 
-	- recherche d'emploi / 
-	- innovation blockchain / 
-	- fondamental system / 
-	- alert Marchés
+	1 - recherche d'emploi / 
+	2 - innovation blockchain / 
+	3 - fondamental system / 
+	4 - alert Marchés
 
 	outils pour faire une veille
 
