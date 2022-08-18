@@ -10,7 +10,7 @@
 
 https://mail.google.com/mail/u/0/#label/EMPLOI%2FOffres
 
-<p align="left"><a href="tps://mail.google.com/mail/u/0/#label/EMPLOI%2FOffres"> <img src="https://img.shields.io/badge/-gmail-2e71ff?style=for-the-badge&labelColor=white&logo=gmail&logoColor=2e71ff"> </a></p>
+<p align="left"><a href="https://mail.google.com/mail/u/0/#label/EMPLOI%2FOffres"> <img src="https://img.shields.io/badge/-gmail-2e71ff?style=for-the-badge&labelColor=white&logo=gmail&logoColor=2e71ff"> </a></p>
 
 2 - innovation blockchain / 
 
