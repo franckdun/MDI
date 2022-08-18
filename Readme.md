@@ -23,6 +23,10 @@ https://getpocket.com/explore?src=sidebar
 
 4 - alert Marchés /
 
+<p align="left"><a href="https://mail.google.com/mail/u/0/#label/VEILLE"> <img src="https://img.shields.io/badge/-gmail Veille-2e71ff?style=for-the-badge&labelColor=white&logo=gmail&logoColor=2e71ff"> </a></p>
+
+
+
 https://grayscale.com/
 
 https://fr.tradingview.com/chart/18ZSOW7O/
