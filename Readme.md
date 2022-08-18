@@ -23,7 +23,9 @@ https://getpocket.com/explore?src=sidebar
 
 4 - alert Marchés /
 
-https://fr.advfn.com/p.php?pid=mon
+https://grayscale.com/
+
+https://fr.tradingview.com/chart/18ZSOW7O/
 
 <details><summary><h2 align="left"><em><strong>🔥 Information processing system project for ultra-efficient information monitoring.</strong></em></h2></summary>
 <!-- DASHBOARD / COMMUNITY -->
