@@ -8,20 +8,22 @@
 
 1 - Emploi / 
 
-https://mail.google.com/mail/u/0/#label/EMPLOI%2FOffres
 
 <p align="left"><a href="https://mail.google.com/mail/u/0/#label/EMPLOI%2FOffres"> <img src="https://img.shields.io/badge/-gmail-2e71ff?style=for-the-badge&labelColor=white&logo=gmail&logoColor=2e71ff"> </a></p>
 
-2 - innovation blockchain / 
+2 - fondamental / 
 
+https://news.ycombinator.com/news
 
-3 - fondamental system / 
+https://freenode.net/view/Main_Page
+
+3 - innovation blockchain / 
 
 https://getpocket.com/explore?src=sidebar
 
 4 - alert Marchés /
 
-
+https://fr.advfn.com/p.php?pid=mon
 
 <details><summary><h2 align="left"><em><strong>🔥 Information processing system project for ultra-efficient information monitoring.</strong></em></h2></summary>
 <!-- DASHBOARD / COMMUNITY -->
