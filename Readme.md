@@ -4,7 +4,8 @@
 
 ```<p align="#"><a href="https://github.com/franckdun/MDI/"> <img src="https://img.shields.io/badge/🔭-MDI-f04c0b" width="#"></a></p>```
 
-
+<!-- DASHBOARD / COMMUNITY -->
+<h2 align="center"> <a href="https://github.com/dashboard"> <img src="https://img.shields.io/badge/Go%20to-Dashboard-ff002f"></a> <a href="https://github.com/community/community/discussions/categories/lists-feedback"> <img src="https://img.shields.io/badge/Go%20to-Community-blueviolet"></a></h2>
 
 1 - Emploi / 
 
@@ -32,8 +33,7 @@ https://grayscale.com/
 https://fr.tradingview.com/chart/18ZSOW7O/
 
 <details><summary><h2 align="left"><em><strong>🔥 Information processing system project for ultra-efficient information monitoring.</strong></em></h2></summary>
-<!-- DASHBOARD / COMMUNITY -->
-<h2 align="center"> <a href="https://github.com/dashboard"> <img src="https://img.shields.io/badge/Go%20to-Dashboard-ff002f"></a> <a href="https://github.com/community/community/discussions/categories/lists-feedback"> <img src="https://img.shields.io/badge/Go%20to-Community-blueviolet"></a></h2>
+
 
 	Projet system de traitement de l'information pour une veille informationnelle ultra efficace.
 
