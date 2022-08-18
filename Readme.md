@@ -4,6 +4,26 @@
 
 ```<p align="#"><a href="https://github.com/franckdun/MDI/"> <img src="https://img.shields.io/badge/🔭-MDI-f04c0b" width="#"></a></p>```
 
+
+
+1 - Emploi / 
+
+https://mail.google.com/mail/u/0/#label/EMPLOI%2FOffres
+
+<p align="left"><a href="tps://mail.google.com/mail/u/0/#label/EMPLOI%2FOffres"> <img src="https://img.shields.io/badge/-gmail-2e71ff?style=for-the-badge&labelColor=white&logo=gmail&logoColor=2e71ff"> </a></p>
+
+2 - innovation blockchain / 
+
+
+3 - fondamental system / 
+
+https://getpocket.com/explore?src=sidebar
+
+4 - alert Marchés /
+
+
+
+<details><summary><h2 align="left"><em><strong>🔥 Information processing system project for ultra-efficient information monitoring.</strong></em></h2></summary>
 <!-- DASHBOARD / COMMUNITY -->
 <h2 align="center"> <a href="https://github.com/dashboard"> <img src="https://img.shields.io/badge/Go%20to-Dashboard-ff002f"></a> <a href="https://github.com/community/community/discussions/categories/lists-feedback"> <img src="https://img.shields.io/badge/Go%20to-Community-blueviolet"></a></h2>
 
@@ -14,7 +34,7 @@
 	1 - recherche d'emploi / 
 	2 - innovation blockchain / 
 	3 - fondamental system / 
-	4 - alert Marchés
+	4 - alert Marchés /
 
 	outils pour faire une veille
 
@@ -54,7 +74,7 @@ article
 - medium https://medium.com/
 - linkedin https://www.linkedin.com/post/new/
 
-
+<details>
 outils https://www.canva.com/fr_fr/creer/infographies/
 
         https://snappa.com/create/infographics
