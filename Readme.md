@@ -26,6 +26,11 @@ Freenode , stylisée comme freenode et anciennement des Projets en Réseau , est
 
 https://getpocket.com/explore?src=sidebar
 
+<p align="left"><a href="https://getpocket.com/explore?src=sidebar"> <img src="https://img.shields.io/badge/-Pocket-ef4a5f?style=for-the-badge&labelColor=white&logo=Pocket&logoColor=ef4a5f"> </a></p>
+
+Pocket est un de social bookmarking service pour le stockage, le partage et la découverte de web signets.
+
+
 4 - alert Marchés /
 
 <p align="left"><a href="https://mail.google.com/mail/u/0/#label/VEILLE"> <img src="https://img.shields.io/badge/-gmail Veille-2e71ff?style=for-the-badge&labelColor=white&logo=gmail&logoColor=2e71ff"> </a></p>
