@@ -39,8 +39,10 @@ Pocket est un de social bookmarking service pour le stockage, le partage et la d
 Grayscale crée des investissements inspiré par un avenir numérique, de sorte que les investisseurs puissent construire plus forte, diversifiée, durable et financière des legs. Investir dans l'Économie Numérique. Blockchain de la technologie et des biens numériques sont radicalement des industries de transformation, la création de l'économie numérique, et en fin de compte, la construction d'un digital native monde. 
 
 https://fr.tradingview.com/chart/18ZSOW7O/
+https://fr.tradingview.com/symbols/BTCUSD/?exchange=BITSTAMP
 
-https://fr.advfn.com/
+
+<p align="left"><a href="https://fr.tradingview.com/symbols/BTCUSD/?exchange=BITSTAMP"> <img src="https://img.shields.io/badge/-Tradingview-2e71ff?style=for-the-badge&labelColor=white&logo=Tradingview&logoColor=2e71ff"> </a></p>
 
 <p align="left"><a href="https://fr.advfn.com/"> <img src="https://img.shields.io/badge/-ADVFN-2e71ff?style=for-the-badge&labelColor=white&logo=advfn&logoColor=2e71ff"> </a></p>
 
