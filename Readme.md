@@ -40,6 +40,10 @@ Grayscale crée des investissements inspiré par un avenir numérique, de sorte 
 
 https://fr.tradingview.com/chart/18ZSOW7O/
 
+https://fr.advfn.com/
+
+<p align="left"><a href="https://fr.advfn.com/"> <img src="https://img.shields.io/badge/-ADVFN-2e71ff?style=for-the-badge&labelColor=white&logo=advfn&logoColor=2e71ff"> </a></p>
+
 <details><summary><h2 align="left"><em><strong>🔥 Information processing system project for ultra-efficient information monitoring.</strong></em></h2></summary>
 
 
