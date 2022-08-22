@@ -78,9 +78,9 @@ blog
 - trumblr https://www.tumblr.com/explore/trending?source=homepage_explore
 - blogger https://www.blogger.com/about/?r=2
 
-article
+Articles (Programmation / Crytocurencies)
 
-<p align="left"><a href="https://medium.com/"> <img src="https://img.shields.io/badge/-Medium-2e71ff?style=for-the-badge&labelColor=white&logo=medium&logoColor=2e71ff"> </a></p> 	(Programmation / Crytocurencies)
+<p align="left"><a href="https://medium.com/"> <img src="https://img.shields.io/badge/-Medium-2e71ff?style=for-the-badge&labelColor=white&logo=medium&logoColor=2e71ff"> </a></p> 	
 
 
 - linkedin https://www.linkedin.com/post/new/
