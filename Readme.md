@@ -14,10 +14,9 @@
 
 2 - fondamental / 
 
-https://news.ycombinator.com/news
+<p align="left"><a href="https://news.ycombinator.com/news"> <img src="https://img.shields.io/badge/-Hacker News-ff6600?style=for-the-badge&labelColor=white&logo=Ycombinator&logoColor=ff6600"> </a></p> 
 
-<p align="left"><a href="https://news.ycombinator.com/news"> <img src="https://img.shields.io/badge/-Hacker News-ff6600?style=for-the-badge&labelColor=white&logo=Ycombinator&logoColor=ff6600"> </a></p>
-
+Hacker News est un site sociale de nouvelles, en se concentrant sur la science informatique et de l'entrepreneuriat. 
 
 https://freenode.net/view/Main_Page
 
