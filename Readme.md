@@ -12,8 +12,6 @@
 
 <p align="left"><a href="https://mail.google.com/mail/u/0/#label/EMPLOI%2FOffres"> <img src="https://img.shields.io/badge/-gmail-2e71ff?style=for-the-badge&labelColor=white&logo=gmail&logoColor=2e71ff"> </a></p>
 
-2 - fondamental / 
-
 <p align="left"><a href="https://news.ycombinator.com/news"> <img src="https://img.shields.io/badge/-Hacker News-ff6600?style=for-the-badge&labelColor=white&logo=Ycombinator&logoColor=ff6600"> </a></p> 
 
 Hacker News est un site sociale de nouvelles, en se concentrant sur la science informatique et de l'entrepreneuriat. 
@@ -21,8 +19,6 @@ Hacker News est un site sociale de nouvelles, en se concentrant sur la science i
 <p align="left"><a href="https://freenode.net/view/Main_Page"> <img src="https://img.shields.io/badge/-Freenode-4beb4a?style=for-the-badge&labelColor=white&logo=fn&logoColor=4beb4a"> </a></p> 
 
 Freenode , stylisée comme freenode et anciennement des Projets en Réseau , est un IRC de réseau qui a été précédemment utilisé pour discuter de peer-les projets dirigés. [1] Leurs serveurs sont accessibles à partir du nom d'hôte chat.freenode.net qui équilibre les connexions en utilisant DNS round-robin .
-
-3 - innovation blockchain 
 
 -Articles (Programmation / Crytocurencies)
 
@@ -39,9 +35,6 @@ Pocket est un de social bookmarking service pour le stockage, le partage et la d
 <p align="left"><a href="https://mail.google.com/mail/u/0/#label/VEILLE"> <img src="https://img.shields.io/badge/-gmail Veille-2e71ff?style=for-the-badge&labelColor=white&logo=gmail&logoColor=2e71ff"> </a></p>
 
 <p align="left"><a href="https://grayscale.com/learn/"> <img src="https://img.shields.io/badge/-Grayscale-2e71ff?style=for-the-badge&labelColor=white&logo=grayscale&logoColor=2e71ff"> </a></p>
-
-https://grayscale.com/
-https://grayscale.com/learn/
 
 Grayscale crée des investissements inspiré par un avenir numérique, de sorte que les investisseurs puissent construire plus forte, diversifiée, durable et financière des legs. Investir dans l'Économie Numérique. Blockchain de la technologie et des biens numériques sont radicalement des industries de transformation, la création de l'économie numérique, et en fin de compte, la construction d'un digital native monde. 
 
