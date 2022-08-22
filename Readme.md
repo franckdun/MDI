@@ -24,8 +24,6 @@ Freenode , stylisée comme freenode et anciennement des Projets en Réseau , est
 
 3 - innovation blockchain / Programation
 
-https://getpocket.com/explore?src=sidebar
-
 <p align="left"><a href="https://getpocket.com/explore?src=sidebar"> <img src="https://img.shields.io/badge/-Pocket-ef4a5f?style=for-the-badge&labelColor=white&logo=Pocket&logoColor=ef4a5f"> </a></p>
 
 Pocket est un de social bookmarking service pour le stockage, le partage et la découverte de web signets.
