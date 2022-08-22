@@ -33,9 +33,12 @@ Pocket est un de social bookmarking service pour le stockage, le partage et la d
 
 <p align="left"><a href="https://mail.google.com/mail/u/0/#label/VEILLE"> <img src="https://img.shields.io/badge/-gmail Veille-2e71ff?style=for-the-badge&labelColor=white&logo=gmail&logoColor=2e71ff"> </a></p>
 
-
+<p align="left"><a href="https://grayscale.com/learn/"> <img src="https://img.shields.io/badge/-Grayscale-2e71ff?style=for-the-badge&labelColor=white&logo=grayscale&logoColor=2e71ff"> </a></p>
 
 https://grayscale.com/
+https://grayscale.com/learn/
+
+Grayscale crée des investissements inspiré par un avenir numérique, de sorte que les investisseurs puissent construire plus forte, diversifiée, durable et financière des legs. Investir dans l'Économie Numérique. Blockchain de la technologie et des biens numériques sont radicalement des industries de transformation, la création de l'économie numérique, et en fin de compte, la construction d'un digital native monde. 
 
 https://fr.tradingview.com/chart/18ZSOW7O/
 
