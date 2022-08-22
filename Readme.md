@@ -16,6 +16,9 @@
 
 https://news.ycombinator.com/news
 
+<p align="left"><a href="https://news.ycombinator.com/news"> <img src="https://img.shields.io/badge/-Hacker News-ff6600?style=for-the-badge&labelColor=white&logo=Ycombinator&logoColor=ff6600"> </a></p>
+
+
 https://freenode.net/view/Main_Page
 
 3 - innovation blockchain / 
