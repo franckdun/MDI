@@ -18,9 +18,11 @@
 
 Hacker News est un site sociale de nouvelles, en se concentrant sur la science informatique et de l'entrepreneuriat. 
 
-https://freenode.net/view/Main_Page
+<p align="left"><a href="https://freenode.net/view/Main_Page"> <img src="https://img.shields.io/badge/-Freenode-4beb4a?style=for-the-badge&labelColor=white&logo=fn&logoColor=4beb4a"> </a></p> 
 
-3 - innovation blockchain / 
+Freenode , stylisée comme freenode et anciennement des Projets en Réseau , est un IRC de réseau qui a été précédemment utilisé pour discuter de peer-les projets dirigés. [1] Leurs serveurs sont accessibles à partir du nom d'hôte chat.freenode.net qui équilibre les connexions en utilisant DNS round-robin .
+
+3 - innovation blockchain / Programation
 
 https://getpocket.com/explore?src=sidebar
 
