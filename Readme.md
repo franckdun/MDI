@@ -32,19 +32,13 @@ Pocket est un de social bookmarking service pour le stockage, le partage et la d
 
 4 - alert Marchés /
 
-<p align="left"><a href="https://mail.google.com/mail/u/0/#label/VEILLE"> <img src="https://img.shields.io/badge/-gmail Veille-2e71ff?style=for-the-badge&labelColor=white&logo=gmail&logoColor=2e71ff"> </a></p>
+<p align="left"><a href="https://fr.advfn.com/"> <img src="https://img.shields.io/badge/-ADVFN-2e71ff?style=for-the-badge&labelColor=white&logo=advfn&logoColor=2e71ff"> </a></p>
+
+<p align="left"><a href="https://fr.tradingview.com/symbols/BTCUSD/?exchange=BITSTAMP"> <img src="https://img.shields.io/badge/-Tradingview-2e71ff?style=for-the-badge&labelColor=white&logo=Tradingview&logoColor=2e71ff"> </a></p>
 
 <p align="left"><a href="https://grayscale.com/learn/"> <img src="https://img.shields.io/badge/-Grayscale-2e71ff?style=for-the-badge&labelColor=white&logo=grayscale&logoColor=2e71ff"> </a></p>
 
 Grayscale crée des investissements inspiré par un avenir numérique, de sorte que les investisseurs puissent construire plus forte, diversifiée, durable et financière des legs. Investir dans l'Économie Numérique. Blockchain de la technologie et des biens numériques sont radicalement des industries de transformation, la création de l'économie numérique, et en fin de compte, la construction d'un digital native monde. 
-
-https://fr.tradingview.com/chart/18ZSOW7O/
-https://fr.tradingview.com/symbols/BTCUSD/?exchange=BITSTAMP
-
-
-<p align="left"><a href="https://fr.tradingview.com/symbols/BTCUSD/?exchange=BITSTAMP"> <img src="https://img.shields.io/badge/-Tradingview-2e71ff?style=for-the-badge&labelColor=white&logo=Tradingview&logoColor=2e71ff"> </a></p>
-
-<p align="left"><a href="https://fr.advfn.com/"> <img src="https://img.shields.io/badge/-ADVFN-2e71ff?style=for-the-badge&labelColor=white&logo=advfn&logoColor=2e71ff"> </a></p>
 
 <details><summary><h2 align="left"><em><strong>🔥 Information processing system project for ultra-efficient information monitoring.</strong></em></h2></summary>
 
