@@ -16,6 +16,12 @@ Media préféré des programeurs et la cryptocurencie nation.
 <!-- medium -->
 <p align="left"><a href="https://medium.com/"> <img src="https://img.shields.io/badge/-Medium-2e71ff?style=for-the-badge&labelColor=white&logo=medium&logoColor=2e71ff"> </a></p> 
 
+
+Apprendre et gagner de cryptos avec Binance.
+<!-- binance -->
+<p align="left"><a href="https://academy.binance.com/en/learn-and-earn?utm_source=BinanceAcademy&utm_medium=banner"> <img src="https://img.shields.io/badge/-Academy Binance-fcd535?style=for-the-badge&labelColor=white&logo=Binance&logoColor=fcd535"> </a></p> 
+
+
 Grayscale donne des rapport approfondis sur la finance cryptocurencies.
 
 <p align="left"><a href="https://grayscale.com/learn/"> <img src="https://img.shields.io/badge/-Grayscale-2e71ff?style=for-the-badge&labelColor=white&logo=grayscale&logoColor=2e71ff"> </a></p>
