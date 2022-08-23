@@ -19,7 +19,7 @@ Media préféré des programeurs et la cryptocurencie nation.
 
 Apprendre et gagner de cryptos avec Binance.
 <!-- binance -->
-<p align="left"><a href="https://academy.binance.com/"> <img src="https://img.shields.io/badge/-Academy Binance-fcd535?style=for-the-badge&labelColor=white&logo=Binance&logoColor=fcd535"> </a></p> 
+<p align="left"><a href="https://academy.binance.me/fr/quizzes"> <img src="https://img.shields.io/badge/-Academy Binance-fcd535?style=for-the-badge&labelColor=white&logo=Binance&logoColor=fcd535"> </a></p> 
 
 
 Grayscale donne des rapport approfondis sur la finance cryptocurencies.
