@@ -19,25 +19,25 @@ Media préféré des programeurs et la cryptocurencie nation.
 
 Apprendre et gagner de cryptos avec Binance.
 <!-- binance -->
-<p align="left"><a href="https://academy.binance.com/en/learn-and-earn?utm_source=BinanceAcademy&utm_medium=banner"> <img src="https://img.shields.io/badge/-Academy Binance-fcd535?style=for-the-badge&labelColor=white&logo=Binance&logoColor=fcd535"> </a></p> 
+<p align="left"><a href="https://academy.binance.com/"> <img src="https://img.shields.io/badge/-Academy Binance-fcd535?style=for-the-badge&labelColor=white&logo=Binance&logoColor=fcd535"> </a></p> 
 
 
 Grayscale donne des rapport approfondis sur la finance cryptocurencies.
-
+<!-- Grayscale -->
 <p align="left"><a href="https://grayscale.com/learn/"> <img src="https://img.shields.io/badge/-Grayscale-2e71ff?style=for-the-badge&labelColor=white&logo=grayscale&logoColor=2e71ff"> </a></p>
 
 ## Alert, News Marché 
 
 Comprendre la situation des Marchés cryptos en 1 seconde !
-
+<!-- COIN 360 -->
 <p align="left"><a href="https://coin360.com/?currency=EUR"> <img src="https://img.shields.io/badge/-coin360-2e71ff?style=for-the-badge&labelColor=white&logo=Coin360&logoColor=2e71ff"> </a></p>
 
 Cours Euronext en temps réel et illimités, news Marché.
-
+<!-- ADVFN -->
 <p align="left"><a href="https://fr.advfn.com/"> <img src="https://img.shields.io/badge/-ADVFN-2e71ff?style=for-the-badge&labelColor=white&logo=advfn&logoColor=2e71ff"> </a></p>
 
 CoinMarketCap est le site Web de suivi des prix le plus référencé au monde pour les crypto-actifs.
-
+<!-- COIN MARKETCAP -->
 <p align="left"><a href="https://coinmarketcap.com/fr/portfolio-tracker/"> <img src="https://img.shields.io/badge/-coinmarketcap-2e71ff?style=for-the-badge&labelColor=white&logo=Coinmarketcap&logoColor=2e71ff"> </a></p>
 
 
