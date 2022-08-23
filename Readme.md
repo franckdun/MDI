@@ -6,11 +6,14 @@
 
 ## S'informer
 
-- job / Programation, blockchain. (La demande permet de savoir se qui est recherché)
+<details><summary><h2 align="left"><em><strong>🔥 - job / Programation, blockchain. (La demande permet de savoir se qui est recherché) .</strong></em></h2></summary>
 
 - https://fr.talent.com/
 - https://www.meteojob.com/
 - https://www.linkedin.com/ 
+
+---		
+</details>	
 
 - Articles (Programmation / Crytocurencies)
 
@@ -57,8 +60,6 @@ Pocket est un de social bookmarking service pour le stockage, le partage et la d
 Freenode , stylisée comme freenode et anciennement des Projets en Réseau , est un IRC de réseau qui a été précédemment utilisé pour discuter de peer-les projets dirigés. [1] Leurs serveurs sont accessibles à partir du nom d'hôte chat.freenode.net qui équilibre les connexions en utilisant DNS round-robin .
 
 <p align="left"><a href="https://freenode.net/view/Main_Page"> <img src="https://img.shields.io/badge/-Freenode-4beb4a?style=for-the-badge&labelColor=white&logo=fn&logoColor=4beb4a"> </a></p>
-
-
 
 
 <details><summary><h2 align="left"><em><strong>🔥 Information processing system project for ultra-efficient information monitoring.</strong></em></h2></summary>
