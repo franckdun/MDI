@@ -7,31 +7,44 @@
 <!-- DASHBOARD / COMMUNITY -->
 <h2 align="center"> <a href="https://github.com/dashboard"> <img src="https://img.shields.io/badge/Go%20to-Dashboard-ff002f"></a> <a href="https://github.com/community/community/discussions/categories/lists-feedback"> <img src="https://img.shields.io/badge/Go%20to-Community-blueviolet"></a></h2>
 
-1 - job / Programation, blockchain. (La demande permet de savoir se qui est recherché)
+
+- job / Programation, blockchain. (La demande permet de savoir se qui est recherché)
 
 - https://fr.talent.com/
-
 - https://www.meteojob.com/
+- https://www.linkedin.com/ 
 
-- https://www.linkedin.com/
+ 
+
+ 
 
 
+
+- Articles (Programmation / Crytocurencies)
+
+
+
+Hacker News est un site sociale de nouvelles, en se concentrant sur la science informatique et de l'entrepreneuriat.
+<!-- hacker news -->
 <p align="left"><a href="https://news.ycombinator.com/news"> <img src="https://img.shields.io/badge/-Hacker News-ff6600?style=for-the-badge&labelColor=white&logo=Ycombinator&logoColor=ff6600"> </a></p> 
 
-Hacker News est un site sociale de nouvelles, en se concentrant sur la science informatique et de l'entrepreneuriat. 
-
-<p align="left"><a href="https://freenode.net/view/Main_Page"> <img src="https://img.shields.io/badge/-Freenode-4beb4a?style=for-the-badge&labelColor=white&logo=fn&logoColor=4beb4a"> </a></p> 
-
-Freenode , stylisée comme freenode et anciennement des Projets en Réseau , est un IRC de réseau qui a été précédemment utilisé pour discuter de peer-les projets dirigés. [1] Leurs serveurs sont accessibles à partir du nom d'hôte chat.freenode.net qui équilibre les connexions en utilisant DNS round-robin .
-
--Articles (Programmation / Crytocurencies)
-
+<!-- medium -->
 <p align="left"><a href="https://medium.com/"> <img src="https://img.shields.io/badge/-Medium-2e71ff?style=for-the-badge&labelColor=white&logo=medium&logoColor=2e71ff"> </a></p> 	
 
-
+<!-- pocket -->
 <p align="left"><a href="https://getpocket.com/explore?src=sidebar"> <img src="https://img.shields.io/badge/-Pocket-ef4a5f?style=for-the-badge&labelColor=white&logo=Pocket&logoColor=ef4a5f"> </a></p>
 
 Pocket est un de social bookmarking service pour le stockage, le partage et la découverte de web signets.
+
+
+# PARTAGE
+
+## Forum
+
+- IRC
+Freenode , stylisée comme freenode et anciennement des Projets en Réseau , est un IRC de réseau qui a été précédemment utilisé pour discuter de peer-les projets dirigés. [1] Leurs serveurs sont accessibles à partir du nom d'hôte chat.freenode.net qui équilibre les connexions en utilisant DNS round-robin .
+
+<p align="left"><a href="https://freenode.net/view/Main_Page"> <img src="https://img.shields.io/badge/-Freenode-4beb4a?style=for-the-badge&labelColor=white&logo=fn&logoColor=4beb4a"> </a></p>
 
 
 4 - alert Marchés /
