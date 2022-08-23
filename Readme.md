@@ -7,11 +7,13 @@
 <!-- DASHBOARD / COMMUNITY -->
 <h2 align="center"> <a href="https://github.com/dashboard"> <img src="https://img.shields.io/badge/Go%20to-Dashboard-ff002f"></a> <a href="https://github.com/community/community/discussions/categories/lists-feedback"> <img src="https://img.shields.io/badge/Go%20to-Community-blueviolet"></a></h2>
 
-1 - job / 
+1 - job / Programation, blockchain. (La demande permet de savoir se qui est recherché)
 
-https://fr.talent.com/
-https://www.meteojob.com/
-https://www.linkedin.com/
+- https://fr.talent.com/
+
+- https://www.meteojob.com/
+
+- https://www.linkedin.com/
 
 
 <p align="left"><a href="https://news.ycombinator.com/news"> <img src="https://img.shields.io/badge/-Hacker News-ff6600?style=for-the-badge&labelColor=white&logo=Ycombinator&logoColor=ff6600"> </a></p> 
