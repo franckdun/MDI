@@ -34,6 +34,8 @@ Pocket est un de social bookmarking service pour le stockage, le partage et la d
 
 <p align="left"><a href="https://fr.advfn.com/"> <img src="https://img.shields.io/badge/-ADVFN-2e71ff?style=for-the-badge&labelColor=white&logo=advfn&logoColor=2e71ff"> </a></p>
 
+Cours Euronext en temps réel et illimités
+
 <p align="left"><a href="https://fr.tradingview.com/symbols/BTCUSD/?exchange=BITSTAMP"> <img src="https://img.shields.io/badge/-Tradingview-2e71ff?style=for-the-badge&labelColor=white&logo=Tradingview&logoColor=2e71ff"> </a></p>
 
 <p align="left"><a href="https://grayscale.com/learn/"> <img src="https://img.shields.io/badge/-Grayscale-2e71ff?style=for-the-badge&labelColor=white&logo=grayscale&logoColor=2e71ff"> </a></p>
