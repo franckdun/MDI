@@ -40,9 +40,7 @@ CoinMarketCap est le site Web de suivi des prix le plus référencé au monde po
 
 <p align="left"><a href="https://coinmarketcap.com/fr/portfolio-tracker/"> <img src="https://img.shields.io/badge/-coinmarketcap-2e71ff?style=for-the-badge&labelColor=white&logo=Coinmarketcap&logoColor=2e71ff"> </a></p>
 
-Tableau shart et analyse stratégique.
 
-<p align="left"><a href="https://fr.tradingview.com/symbols/BTCUSD/?exchange=BITSTAMP"> <img src="https://img.shields.io/badge/-Tradingview-2e71ff?style=for-the-badge&labelColor=white&logo=Tradingview&logoColor=2e71ff"> </a></p>
 
 <details><summary><h2 align="left"><em><strong>🔥 - job / Programation, blockchain. (La demande permet de savoir se qui est recherché) .</strong></em></h2></summary>
 
@@ -63,6 +61,10 @@ Tableau shart et analyse stratégique.
 Pocket est un de social bookmarking service pour le stockage, le partage et la découverte de web signets.
 <!-- pocket -->
 <p align="left"><a href="https://getpocket.com/explore?src=sidebar"> <img src="https://img.shields.io/badge/-Pocket-ef4a5f?style=for-the-badge&labelColor=white&logo=Pocket&logoColor=ef4a5f"> </a></p>
+
+Tableau shart et analyse stratégique.
+<!-- TRADING VIEW -->
+<p align="left"><a href="https://fr.tradingview.com/symbols/BTCUSD/?exchange=BITSTAMP"> <img src="https://img.shields.io/badge/-Tradingview-2e71ff?style=for-the-badge&labelColor=white&logo=Tradingview&logoColor=2e71ff"> </a></p>
 
 <!-- ## Forum
 
