@@ -7,10 +7,12 @@
 <!-- DASHBOARD / COMMUNITY -->
 <h2 align="center"> <a href="https://github.com/dashboard"> <img src="https://img.shields.io/badge/Go%20to-Dashboard-ff002f"></a> <a href="https://github.com/community/community/discussions/categories/lists-feedback"> <img src="https://img.shields.io/badge/Go%20to-Community-blueviolet"></a></h2>
 
-1 - Emploi / 
+1 - job / 
 
+https://fr.talent.com/
+https://www.meteojob.com/
+https://www.linkedin.com/
 
-<p align="left"><a href="https://mail.google.com/mail/u/0/#label/EMPLOI%2FOffres"> <img src="https://img.shields.io/badge/-gmail-2e71ff?style=for-the-badge&labelColor=white&logo=gmail&logoColor=2e71ff"> </a></p>
 
 <p align="left"><a href="https://news.ycombinator.com/news"> <img src="https://img.shields.io/badge/-Hacker News-ff6600?style=for-the-badge&labelColor=white&logo=Ycombinator&logoColor=ff6600"> </a></p> 
 
