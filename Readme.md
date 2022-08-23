@@ -4,9 +4,9 @@
 
 ```<p align="#"><a href="https://github.com/franckdun/MDI/"> <img src="https://img.shields.io/badge/🔭-MDI-f04c0b" width="#"></a></p>```
 
-## S'informer
+# S'informer
 
-# Articles (Programmation / Crytocurencies)
+## Articles (Programmation / Crytocurencies)
 
 Hacker News est un site sociale de nouvelles, en se concentrant sur la science informatique et de l'entrepreneuriat.
 <!-- hacker news -->
