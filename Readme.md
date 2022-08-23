@@ -44,8 +44,16 @@ CoinMarketCap est le site Web de suivi des prix le plus référencé au monde po
 
 <details><summary><h2 align="left"><em><strong>🔥 - job / Programation, blockchain. (La demande permet de savoir se qui est recherché) .</strong></em></h2></summary>
 
-- https://fr.talent.com/
-- https://www.meteojob.com/
+- 
+
+<p align="left"><a href="https://fr.talent.com/"> <img src="https://img.shields.io/badge/-Talent-2e71ff?style=for-the-badge&labelColor=white&logo=Talent&logoColor=2e71ff"> </a></p>
+
+
+<p align="left"><a href="https://www.meteojob.com/"> <img src="https://img.shields.io/badge/-Meteojob-2e71ff?style=for-the-badge&labelColor=white&logo=Meteojob&logoColor=2e71ff"> </a></p>
+
+
+<p align="left"><a href="https://www.linkedin.com/ "> <img src="https://img.shields.io/badge/-linkedin-2e71ff?style=for-the-badge&labelColor=white&logo=Linkedin&logoColor=2e71ff"> </a></p>
+- 
 - https://www.linkedin.com/ 
 
 ---		
