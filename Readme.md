@@ -43,6 +43,10 @@ Cours Euronext en temps réel et illimités, news Marché.
 
 <p align="left"><a href="https://fr.advfn.com/"> <img src="https://img.shields.io/badge/-ADVFN-2e71ff?style=for-the-badge&labelColor=white&logo=advfn&logoColor=2e71ff"> </a></p>
 
+CoinMarketCap est le site Web de suivi des prix le plus référencé au monde pour les crypto-actifs.
+
+<p align="left"><a href="https://coinmarketcap.com/fr/portfolio-tracker/"> <img src="https://img.shields.io/badge/-coinmarketcap-2e71ff?style=for-the-badge&labelColor=white&logo=Coinmarketcap&logoColor=2e71ff"> </a></p>
+
 Tableau shart et analyse stratégique.
 
 <p align="left"><a href="https://fr.tradingview.com/symbols/BTCUSD/?exchange=BITSTAMP"> <img src="https://img.shields.io/badge/-Tradingview-2e71ff?style=for-the-badge&labelColor=white&logo=Tradingview&logoColor=2e71ff"> </a></p>
