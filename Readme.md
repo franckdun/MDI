@@ -4,10 +4,6 @@
 
 ```<p align="#"><a href="https://github.com/franckdun/MDI/"> <img src="https://img.shields.io/badge/🔭-MDI-f04c0b" width="#"></a></p>```
 
-<!-- DASHBOARD / COMMUNITY -->
-<h2 align="center"> <a href="https://github.com/dashboard"> <img src="https://img.shields.io/badge/Go%20to-Dashboard-ff002f"></a> <a href="https://github.com/community/community/discussions/categories/lists-feedback"> <img src="https://img.shields.io/badge/Go%20to-Community-blueviolet"></a></h2>
-
-
 ## S'informer
 
 - job / Programation, blockchain. (La demande permet de savoir se qui est recherché)
@@ -30,13 +26,6 @@ Grayscale donne des rapport approfondis sur la finance cryptocurencies.
 
 <p align="left"><a href="https://grayscale.com/learn/"> <img src="https://img.shields.io/badge/-Grayscale-2e71ff?style=for-the-badge&labelColor=white&logo=grayscale&logoColor=2e71ff"> </a></p>
 
-## Recolter
-
-Pocket est un de social bookmarking service pour le stockage, le partage et la découverte de web signets.
-<!-- pocket -->
-<p align="left"><a href="https://getpocket.com/explore?src=sidebar"> <img src="https://img.shields.io/badge/-Pocket-ef4a5f?style=for-the-badge&labelColor=white&logo=Pocket&logoColor=ef4a5f"> </a></p>
-
-
 ## Alert, News Marché 
 
 Cours Euronext en temps réel et illimités, news Marché.
@@ -52,6 +41,15 @@ Tableau shart et analyse stratégique.
 <p align="left"><a href="https://fr.tradingview.com/symbols/BTCUSD/?exchange=BITSTAMP"> <img src="https://img.shields.io/badge/-Tradingview-2e71ff?style=for-the-badge&labelColor=white&logo=Tradingview&logoColor=2e71ff"> </a></p>
 
 # PARTAGER
+
+<!-- DASHBOARD / COMMUNITY -->
+<h2 align="center"> <a href="https://github.com/dashboard"> <img src="https://img.shields.io/badge/Go%20to-Dashboard-ff002f"></a> <a href="https://github.com/community/community/discussions/categories/lists-feedback"> <img src="https://img.shields.io/badge/Go%20to-Community-blueviolet"></a></h2>
+
+## Recolter
+
+Pocket est un de social bookmarking service pour le stockage, le partage et la découverte de web signets.
+<!-- pocket -->
+<p align="left"><a href="https://getpocket.com/explore?src=sidebar"> <img src="https://img.shields.io/badge/-Pocket-ef4a5f?style=for-the-badge&labelColor=white&logo=Pocket&logoColor=ef4a5f"> </a></p>
 
 ## Forum
 
