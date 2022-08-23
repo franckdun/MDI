@@ -6,16 +6,7 @@
 
 ## S'informer
 
-<details><summary><h2 align="left"><em><strong>🔥 - job / Programation, blockchain. (La demande permet de savoir se qui est recherché) .</strong></em></h2></summary>
-
-- https://fr.talent.com/
-- https://www.meteojob.com/
-- https://www.linkedin.com/ 
-
----		
-</details>	
-
-- Articles (Programmation / Crytocurencies)
+# Articles (Programmation / Crytocurencies)
 
 Hacker News est un site sociale de nouvelles, en se concentrant sur la science informatique et de l'entrepreneuriat.
 <!-- hacker news -->
@@ -42,6 +33,15 @@ CoinMarketCap est le site Web de suivi des prix le plus référencé au monde po
 Tableau shart et analyse stratégique.
 
 <p align="left"><a href="https://fr.tradingview.com/symbols/BTCUSD/?exchange=BITSTAMP"> <img src="https://img.shields.io/badge/-Tradingview-2e71ff?style=for-the-badge&labelColor=white&logo=Tradingview&logoColor=2e71ff"> </a></p>
+
+<details><summary><h2 align="left"><em><strong>🔥 - job / Programation, blockchain. (La demande permet de savoir se qui est recherché) .</strong></em></h2></summary>
+
+- https://fr.talent.com/
+- https://www.meteojob.com/
+- https://www.linkedin.com/ 
+
+---		
+</details>
 
 # PARTAGER
 
