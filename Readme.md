@@ -11,9 +11,9 @@ Vous pouvez obtenir l'acces à cette Veille, copiez ce badge sur votre github ou
 
 ## Mon Article
 
-[![img contact](https://github.com/franckdun/MDI/blob/main/assets/img/readme.PNG)](https://cinqmars.fr/outils-de-curation-7-plateformes/)
+# Outils de curation de contenu : 7 plateformes indispensables à retenir
 
-
+[![img contact](https://github.com/franckdun/MDI/blob/main/assets/img/readme1.PNG)](https://cinqmars.fr/outils-de-curation-7-plateformes/)
 
 ---	
 	
