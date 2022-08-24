@@ -139,6 +139,7 @@ Articles (Programmation / Crytocurencies)
 - linkedin https://www.linkedin.com/post/new/
 
 <details>
+
 outils https://www.canva.com/fr_fr/creer/infographies/
 
         https://snappa.com/create/infographics
@@ -155,3 +156,8 @@ Initiez-vous à l'art du « storytelling »
 
 Structurez votre contenu comme un pro
         https://openclassrooms.com/fr/courses/4577696-prenez-la-parole-en-public/7412656-structurez-votre-contenu-comme-un-pro
+
+</details>
+</details>
+
+
