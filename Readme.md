@@ -9,6 +9,12 @@ Vous pouvez obtenir l'acces à cette Veille, copiez ce badge sur votre github ou
 	
 ```<p align="#"><a href="https://github.com/franckdun/MDI/"> <img src="https://img.shields.io/badge/🔭-MDI-f04c0b" width="#"></a></p>```
 
+## Mon Article
+
+[![img contact](https://github.com/franckdun/MDI/blob/main/assets/img/readme.PNG)](https://cinqmars.fr/outils-de-curation-7-plateformes/)
+
+
+
 ---	
 	
 </details>	
@@ -117,10 +123,7 @@ ________________________________________
     Netvibes
     The Old Reader
 
-https://cinqmars.fr/outils-de-curation-7-plateformes/
-
 ---------------------------------------------------
-02/08/2022
 
 création de contenu
 blog
