@@ -22,7 +22,7 @@ Media préféré des programeurs et la cryptocurencie nation.
 <p align="left"><a href="https://medium.com/"> <img src="https://img.shields.io/badge/-Medium-2e71ff?style=for-the-badge&labelColor=white&logo=medium&logoColor=2e71ff"> </a></p> 
 
 
-🪙 Apprendre et gagner de cryptos avec Binance.
+🪙 - Apprendre et gagner de cryptos avec Binance.
 <!-- binance -->
 <p align="left"><a href="https://academy.binance.me/fr/quizzes"> <img src="https://img.shields.io/badge/-Academy Binance-fcd535?style=for-the-badge&labelColor=white&logo=Binance&logoColor=fcd535"> </a></p>
 
@@ -37,11 +37,11 @@ Comprendre la situation des Marchés cryptos en 1 seconde !
 <!-- COIN 360 -->
 <p align="left"><a href="https://coin360.com/?currency=EUR"> <img src="https://img.shields.io/badge/-coin360-2e71ff?style=for-the-badge&labelColor=white&logo=Coin360&logoColor=2e71ff"> </a></p>
 
-🪙 Cours Euronext en temps réel et illimités, news Marché.
+🪙 - Cours Euronext en temps réel et illimités, news Marché.
 <!-- ADVFN -->
 <p align="left"><a href="https://fr.advfn.com/"> <img src="https://img.shields.io/badge/-ADVFN-2e71ff?style=for-the-badge&labelColor=white&logo=advfn&logoColor=2e71ff"> </a></p> 
 
-🪙 CoinMarketCap est le site Web de suivi des prix le plus référencé au monde pour les crypto-actifs.
+🪙 - CoinMarketCap est le site Web de suivi des prix le plus référencé au monde pour les crypto-actifs.
 <!-- COIN MARKETCAP -->
 <p align="left"><a href="https://coinmarketcap.com/fr/portfolio-tracker/"> <img src="https://img.shields.io/badge/-coinmarketcap-2e71ff?style=for-the-badge&labelColor=white&logo=Coinmarketcap&logoColor=2e71ff"> </a></p> 
 
@@ -73,7 +73,7 @@ Gitter est un chat et de la plate-forme de réseau qui permet de gérer, de gran
 
 <p align="left"><a href="https://gitter.im/home/explore/tags/curated:frontend"> <img src="https://img.shields.io/badge/-Gitter-753a88?style=for-the-badge&labelColor=white&logo=Gitter&logoColor=753a88"> </a></p>
 
-Reddit est un site Web américain d'agrégation de nouvelles sociales, de classification de contenu et de discussion. Les utilisateurs enregistrés soumettent du contenu sur le site, tel que des liens, des messages texte, des images et des vidéos, qui sont ensuite votés pour ou contre par les autres membres. Les messages sont organisés par sujet dans des tableaux créés par les utilisateurs appelés "communautés" ou "subreddits".
+🪙 - Reddit est un site Web américain d'agrégation de nouvelles sociales, de classification de contenu et de discussion. Les utilisateurs enregistrés soumettent du contenu sur le site, tel que des liens, des messages texte, des images et des vidéos, qui sont ensuite votés pour ou contre par les autres membres. Les messages sont organisés par sujet dans des tableaux créés par les utilisateurs appelés "communautés" ou "subreddits".
 
 <p align="left"><a href="https://www.reddit.com/"> <img src="https://img.shields.io/badge/-reddit-rgb(255, 69, 0)?style=for-the-badge&labelColor=white&logo=Reddit&logoColor=rgb(255, 69, 0)"> </a></p>
 
