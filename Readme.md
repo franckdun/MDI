@@ -22,7 +22,7 @@ Media préféré des programeurs et la cryptocurencie nation.
 <p align="left"><a href="https://medium.com/"> <img src="https://img.shields.io/badge/-Medium-2e71ff?style=for-the-badge&labelColor=white&logo=medium&logoColor=2e71ff"> </a></p> 
 
 
-🪙 - Apprendre et gagner de cryptos avec Binance.
+🪙  🎉 - Apprendre et gagner de cryptos avec Binance. 
 <!-- binance -->
 <p align="left"><a href="https://academy.binance.me/fr/quizzes"> <img src="https://img.shields.io/badge/-Academy Binance-fcd535?style=for-the-badge&labelColor=white&logo=Binance&logoColor=fcd535"> </a></p>
 
