@@ -2,6 +2,8 @@
 
 # Monitoring Dashboard Information
 
+Vous pouvez obtenir l'acces a cette Veille en copiant ce badge sur votre github ou autre.
+
 ```<p align="#"><a href="https://github.com/franckdun/MDI/"> <img src="https://img.shields.io/badge/🔭-MDI-f04c0b" width="#"></a></p>```
 
 # S'informer
