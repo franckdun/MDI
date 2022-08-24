@@ -52,7 +52,9 @@ Comprendre la situation des Marchés cryptos en 1 seconde !
 
 
 
-<details><summary><h2 align="left"><em><strong>🔥 Job / Programation, blockchain. (La demande permet de savoir se qui est recherché) .</strong></em></h2></summary>
+<details><summary><h2 align="left"><em><strong>🔥 Job / Programation, blockchain.</strong></em></h2></summary>
+	
+(La demande permet de savoir ce qui est recherché.)
 
 <p align="center"><a href="https://fr.talent.com/"> <img src="https://img.shields.io/badge/-Talent-2e71ff?style=for-the-badge&labelColor=white&logo=Talent&logoColor=2e71ff"> </a><a href="https://www.meteojob.com/"> <img src="https://img.shields.io/badge/-Meteojob-2e71ff?style=for-the-badge&labelColor=white&logo=Meteojob&logoColor=2e71ff"> </a><a href="https://www.linkedin.com/ "> <img src="https://img.shields.io/badge/-linkedin-2e71ff?style=for-the-badge&labelColor=white&logo=Linkedin&logoColor=2e71ff"> </a></p>
 
