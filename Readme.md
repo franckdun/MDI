@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/franckdun/MDI/"> <img src="https://img.shields.io/badge/🔭-franckdun MDI-f04c0b" width="300"></a></p>
+<p align="center"><a href="https://github.com/franckdun/MDI/"> <img src="https://img.shields.io/badge/🔭-MDI-f04c0b" width="300"></a></p>
 
 # Monitoring Dashboard Information
 
