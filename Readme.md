@@ -64,12 +64,11 @@ Tableau shart et analyse stratégique.
 <!-- TRADING VIEW -->
 <p align="left"><a href="https://fr.tradingview.com/symbols/BTCUSD/?exchange=BITSTAMP"> <img src="https://img.shields.io/badge/-Tradingview-2e71ff?style=for-the-badge&labelColor=white&logo=Tradingview&logoColor=2e71ff"> </a></p>
 
-<!-- ## Forum
+Gitter est un chat et de la plate-forme de réseau qui permet de gérer, de grandir et de se connecter des communautés par le biais de la messagerie, du contenu et de la découverte. 
 
-- IRC
-Freenode , stylisée comme freenode et anciennement des Projets en Réseau , est un IRC de réseau qui a été précédemment utilisé pour discuter de peer-les projets dirigés. [1] Leurs serveurs sont accessibles à partir du nom d'hôte chat.freenode.net qui équilibre les connexions en utilisant DNS round-robin .
+<p align="left"><a href="https://gitter.im/home/explore/tags/curated:frontend"> <img src="https://img.shields.io/badge/-Gitter-753a88?style=for-the-badge&labelColor=white&logo=Gitter&logoColor=753a88"> </a></p>
 
-<p align="left"><a href="https://freenode.net/view/Main_Page"> <img src="https://img.shields.io/badge/-Freenode-4beb4a?style=for-the-badge&labelColor=white&logo=fn&logoColor=4beb4a"> </a></p> -->
+
 
 
 <details><summary><h2 align="left"><em><strong>🔥 Information processing system project for ultra-efficient information monitoring.</strong></em></h2></summary>
