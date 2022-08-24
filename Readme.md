@@ -90,17 +90,9 @@ Gitter est un chat et de la plate-forme de réseau qui permet de gérer, de gran
 
 <details><summary><h2 align="left"><em><strong>🔥 Information processing system project for ultra-efficient information monitoring.</strong></em></h2></summary>
 
+## Projet system de traitement de l'information pour une veille informationnelle ultra efficace.
 
-	Projet system de traitement de l'information pour une veille informationnelle ultra efficace.
-
-	Sections:
-
-	1 - recherche d'emploi / 
-	2 - innovation blockchain / 
-	3 - fondamental system / 
-	4 - alert Marchés /
-
-	outils pour faire une veille
+- outils pour faire une veille
 
 	https://wakelet.com/
 	https://paper.li/
@@ -111,7 +103,9 @@ Gitter est un chat et de la plate-forme de réseau qui permet de gérer, de gran
 
 	https://slack.com/intl/fr-fr/
 	https://trello.com/
+	
 ________________________________________
+   
     Feedly
     Pocket
     Flipboard
@@ -123,39 +117,46 @@ ________________________________________
     Netvibes
     The Old Reader
 
----------------------------------------------------
+---
 
-création de contenu
-blog
-- wordpress https://wordpress.com/fr/
-- trumblr https://www.tumblr.com/explore/trending?source=homepage_explore
-- blogger https://www.blogger.com/about/?r=2
+- création de contenu
+	
+	- blog
+		- wordpress https://wordpress.com/fr/
+	
+		- trumblr https://www.tumblr.com/explore/trending?source=homepage_explore
+	
+		- blogger https://www.blogger.com/about/?r=2
+	
 
-Articles (Programmation / Crytocurencies)
+	- Articles 
 
-<p align="left"><a href="https://medium.com/"> <img src="https://img.shields.io/badge/-Medium-2e71ff?style=for-the-badge&labelColor=white&logo=medium&logoColor=2e71ff"> </a></p> 	
-
-
-- linkedin https://www.linkedin.com/post/new/
+		- https://medium.com/
+	
+		- linkedin https://www.linkedin.com/post/new/
 
 <details>
 
-outils https://www.canva.com/fr_fr/creer/infographies/
+	- outils 
+	
+		- https://www.canva.com/fr_fr/creer/infographies/
 
-        https://snappa.com/create/infographics
+        	- https://snappa.com/create/infographics
 
-        https://infogram.com/
+        	- https://infogram.com/
 
-        https://www.easel.ly/
+        	- https://www.easel.ly/
 
 
 cours “Prenez la parole en public”
 
-Initiez-vous à l'art du « storytelling »
-        https://openclassrooms.com/fr/courses/4577696-prenez-la-parole-en-public/7412648-initiez-vous-a-lart-du-storytelling
+- Initiez-vous à l'art du « storytelling » 
+	
+        - https://openclassrooms.com/fr/courses/4577696-prenez-la-parole-en-public/7412648-initiez-vous-a-lart-du-storytelling
 
-Structurez votre contenu comme un pro
-        https://openclassrooms.com/fr/courses/4577696-prenez-la-parole-en-public/7412656-structurez-votre-contenu-comme-un-pro
+- Structurez votre contenu comme un pro
+	
+        _ https://openclassrooms.com/fr/courses/4577696-prenez-la-parole-en-public/7412656-structurez-votre-contenu-comme-un-pro
 
 </details>
 </details>
