@@ -152,11 +152,11 @@ cours “Prenez la parole en public”
 
 - Initiez-vous à l'art du « storytelling » 
 	
-        - https://openclassrooms.com/fr/courses/4577696-prenez-la-parole-en-public/7412648-initiez-vous-a-lart-du-storytelling
+	<a href="https://openclassrooms.com/fr/courses/4577696-prenez-la-parole-en-public/7412648-initiez-vous-a-lart-du-storytelling"> <img src="https://img.shields.io/badge/Go%20to-Openclassrooms-blueviolet"></a>
 
 - Structurez votre contenu comme un pro
 	
-        _ https://openclassrooms.com/fr/courses/4577696-prenez-la-parole-en-public/7412656-structurez-votre-contenu-comme-un-pro
+	<a href="https://openclassrooms.com/fr/courses/4577696-prenez-la-parole-en-public/7412656-structurez-votre-contenu-comme-un-pro"> <img src="https://img.shields.io/badge/Go%20to-Openclassrooms-blueviolet"></a>
 
 </details>
 </details>
