@@ -54,7 +54,7 @@ Comprendre la situation des Marchés cryptos en 1 seconde !
 
 🎉 - CoinMarketCap est le site Web de suivi des prix le plus référencé au monde pour les crypto-actifs.
 <!-- COIN MARKETCAP -->
-<p align="left"><a href="https://coinmarketcap.com/fr/portfolio-tracker/"> <img src="https://img.shields.io/badge/-coinmarketcap-2e71ff?style=for-the-badge&labelColor=white&logo=Coinmarketcap&logoColor=2e71ff"> </a></p> 
+<p align="left"><a href="https://coinmarketcap.com/account/my-diamonds/"> <img src="https://img.shields.io/badge/-coinmarketcap-2e71ff?style=for-the-badge&labelColor=white&logo=Coinmarketcap&logoColor=2e71ff"> </a></p> 
 
 
 
