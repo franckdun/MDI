@@ -9,7 +9,7 @@ Vous pouvez obtenir l'acces à cette Veille, copiez ce badge sur votre github ou
 	
 ```<p align="#"><a href="https://github.com/franckdun/MDI/"> <img src="https://img.shields.io/badge/🔭-MDI-f04c0b" width="#"></a></p>```
 
-## Mon Article
+## Mon Article préféré de la semaine !
 
 # Outils de curation de contenu : 7 plateformes indispensables à retenir
 
