@@ -1,5 +1,6 @@
 <!-- DASHBOARD / COMMUNITY -->
-<h2 align="center"> <a href="https://github.com/dashboard"> <img src="https://img.shields.io/badge/Go%20to-Dashboard-ff002f"></a> <a href="https://github.com/community/community/discussions/categories/lists-feedback"> <img src="https://img.shields.io/badge/Go%20to-Community-blueviolet"></a><a href="https://openclassrooms.workplace.com/?medium=email&story_id=S%3A_I100074563594586%3A1027025174673731"> <img src="https://img.shields.io/badge/Go%20to-Workplace-blueviolet"></a></h2>
+<h2 align="center"> <a href="https://github.com/dashboard"> <img src="https://img.shields.io/badge/Go%20to-Dashboard-ff002f"></a> <a href="https://github.com/community/community/discussions/categories/lists-feedback"> <img src="https://img.shields.io/badge/Go%20to-Community-blueviolet"></a><a href="https://openclassrooms.workplace.com/?medium=email&story_id=S%3A_I100074563594586%3A1027025174673731"> <img src="https://img.shields.io/badge/Go%20to-Workplace-blueviolet"></a> <img src="https://komarev.com/ghpvc/?username=franckdun&label=views&color=0e75b6&style=flat" alt="franckdun" /> 
+</h2>
 
 <p align="center"><a href="https://github.com/franckdun/MDI/"><img src="https://img.shields.io/badge/🔭-MDI-f04c0b" width="300"></a></p>
 
