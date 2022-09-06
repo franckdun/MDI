@@ -1,13 +1,17 @@
 <!-- DASHBOARD / COMMUNITY -->
 <h2 align="center"> <a href="https://github.com/dashboard"> <img src="https://img.shields.io/badge/Go%20to-Dashboard-ff002f"></a> <a href="https://github.com/community/community/discussions/categories/lists-feedback"> <img src="https://img.shields.io/badge/Go%20to-Community-blueviolet"></a><a href="https://openclassrooms.workplace.com/?medium=email&story_id=S%3A_I100074563594586%3A1027025174673731"> <img src="https://img.shields.io/badge/Go%20to-Workplace-blueviolet"></a></h2>
 
-<p align="center"><a href="https://github.com/franckdun/MDI/"> <img src="https://img.shields.io/badge/🔭-MDI-f04c0b" width="300"></a></p>
+<p align="center"><a href="https://github.com/franckdun/MDI/"><img src="https://img.shields.io/badge/🔭-MDI-f04c0b" width="300"></a></p>
 
 <details><summary><h2 align="left"><em><strong>🔥 Monitoring Dashboard Information</strong></em></h2></summary>
 
 Vous pouvez obtenir l'acces à cette Veille, copiez ce badge sur votre github ou autre.	
 	
-```<p align="#"><a href="https://github.com/franckdun/MDI/"> <img src="https://img.shields.io/badge/🔭-MDI-f04c0b" width="#"></a></p>```
+```
+<p align="#"><a href="https://github.com/franckdun/MDI/"> <img src="https://img.shields.io/badge/🔭-MDI-f04c0b" width="#"></a></p>
+```
+
+</details>
 
 ## Mon Article préféré de la semaine ! 06/09/2022
 
@@ -15,15 +19,13 @@ Vous pouvez obtenir l'acces à cette Veille, copiez ce badge sur votre github ou
 
 <p align="center"><a href="https://ethereum.org/en/upgrades/merge/"> <img src="https://github.com/franckdun/MDI/blob/main/assets/img/merge.PNG" width="80%"></a></p>
 
-## Mon Article préféré de la semaine !
+## Mon Article préféré de la semaine dernière !
 
 # Outils de curation de contenu : 7 plateformes indispensables à retenir
 
-<p align="center"><a href="https://cinqmars.fr/outils-de-curation-7-plateformes/"> <img src="https://github.com/franckdun/MDI/blob/main/assets/img/readme1.PNG" width="80%"></a></p>
+<p align="center"><a href="https://cinqmars.fr/outils-de-curation-7-plateformes/"> <img src="https://github.com/franckdun/MDI/blob/main/assets/img/readme1.PNG" width="20%"></a></p>
 
----	
-	
-</details>	
+---		
 		
 # S'informer
 
