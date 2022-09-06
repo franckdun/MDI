@@ -6,7 +6,7 @@
 
 <details><summary><h4 align="left"><em><strong>🔥 Monitoring Dashboard Information</strong></em></h4></summary>
 
-Vous pouvez obtenir l'acces à cette Veille, copiez ce badge sur votre github ou autre.	
+You can get access to this Watch, copy this badge on your github or other.
 	
 ```
 <p align="#"><a href="https://github.com/franckdun/MDI/"> <img src="https://img.shields.io/badge/🔭-MDI-f04c0b" width="#"></a></p>
@@ -14,21 +14,21 @@ Vous pouvez obtenir l'acces à cette Veille, copiez ce badge sur votre github ou
 
 </details>
 
-## Mon Article préféré de la semaine ! 06/09/2022
+## My favorite article of the week ! 06/09/2022
 
-# La Fusion 
+# the Merge
 
 <p align="center"><a href="https://ethereum.org/en/upgrades/merge/"> <img src="https://github.com/franckdun/MDI/blob/main/assets/img/merge.PNG" width="80%"></a></p>
 
-### Mon Article préféré de la semaine dernière !
+### My favorite post from last week !
 
-### Outils de curation de contenu : 7 plateformes indispensables à retenir
+### Content Curation Tools: 7 Must-Know Platforms
 
 <p align="center"><a href="https://cinqmars.fr/outils-de-curation-7-plateformes/"> <img src="https://github.com/franckdun/MDI/blob/main/assets/img/readme1.PNG" width="20%"></a></p>
 
 ---		
 		
-# S'informer
+# Get informed !
 
 ## Articles (Programmation / Crytocurencies) 
 Les cornets 🎉 indiquent la distribution de récompenses lors de la consultation du site.
