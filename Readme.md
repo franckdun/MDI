@@ -9,6 +9,12 @@ Vous pouvez obtenir l'acces à cette Veille, copiez ce badge sur votre github ou
 	
 ```<p align="#"><a href="https://github.com/franckdun/MDI/"> <img src="https://img.shields.io/badge/🔭-MDI-f04c0b" width="#"></a></p>```
 
+## Mon Article préféré de la semaine ! 06/09/2022
+
+# La Fusion 
+
+<p align="center"><a href="https://ethereum.org/en/upgrades/merge/"> <img src="https://github.com/franckdun/MDI/blob/main/assets/img/merge.PNG" width="80%"></a></p>
+
 ## Mon Article préféré de la semaine !
 
 # Outils de curation de contenu : 7 plateformes indispensables à retenir
