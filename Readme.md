@@ -24,7 +24,7 @@ You can get access to this Watch, copy this badge on your github or other.
 
 ### Content Curation Tools: 7 Must-Know Platforms
 
-<p align="center"><a href="https://cinqmars.fr/outils-de-curation-7-plateformes/"> <img src="https://github.com/franckdun/MDI/blob/main/assets/img/readme1.PNG" width="20%"></a></p>
+<p align="left"><a href="https://cinqmars.fr/outils-de-curation-7-plateformes/"> <img src="https://github.com/franckdun/MDI/blob/main/assets/img/readme1.PNG" width="20%"></a></p>
 
 ---		
 		
