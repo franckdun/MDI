@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://github.com/franckdun/MDI/"><img src="https://img.shields.io/badge/🔭-MDI-f04c0b" width="300"></a></p>
 
-<details><summary><h2 align="left"><em><strong>🔥 Monitoring Dashboard Information</strong></em></h2></summary>
+<details><summary><h4 align="left"><em><strong>🔥 Monitoring Dashboard Information</strong></em></h4></summary>
 
 Vous pouvez obtenir l'acces à cette Veille, copiez ce badge sur votre github ou autre.	
 	
@@ -67,7 +67,7 @@ Comprendre la situation des Marchés cryptos en 1 seconde !
 
 
 
-<details><summary><h2 align="left"><em><strong>🔥 Job / Programation, blockchain.</strong></em></h2></summary>
+<details><summary><h4 align="left"><em><strong>🔥 Job / Programation, blockchain.</strong></em></h4></summary>
 	
 (La demande permet de savoir ce qui est recherché.)
 
@@ -97,7 +97,7 @@ Gitter est un chat et de la plate-forme de réseau qui permet de gérer, de gran
 <p align="left"><a href="https://www.reddit.com/"> <img src="https://img.shields.io/badge/-reddit-rgb(255, 69, 0)?style=for-the-badge&labelColor=white&logo=Reddit&logoColor=rgb(255, 69, 0)"> </a></p>
 
 
-<details><summary><h2 align="left"><em><strong>🔥 Information processing system project for ultra-efficient information monitoring.</strong></em></h2></summary>
+<details><summary><h4 align="left"><em><strong>🔥 Information processing system project for ultra-efficient information monitoring.</strong></em></h4></summary>
 
 ## Projet system de traitement de l'information pour une veille informationnelle ultra efficace.
 
