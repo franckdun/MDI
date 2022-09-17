@@ -17,11 +17,11 @@ You can get access to this MDI, copy this badge on your github or other.
 
 <!-- //////////////////////////////////////////// NEW ARTICLE \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
 
-## My favorite article of the week ! 17/09/2022
+### My favorite article of the week ! 17/09/2022
 
+## Année charnière dans la régulation juridique et fiscale
 
-
-
+<p align="center"><a href="https://github.com/franckdun/MDI/blob/main/Articles/Ann%C3%A9e%20charni%C3%A8re%20dans%20la%20r%C3%A9gulation%20juridique%20et%20fiscale.pdf"> <img src="https://github.com/franckdun/MDI/blob/main/assets/img/Crypto_1.jpg" width="50%"></a></p>
 
 <!-- //////////////////////////////////////////// ARTICLE \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
 
@@ -33,7 +33,7 @@ You can get access to this MDI, copy this badge on your github or other.
 
 <!-- //////////////////////////////////////////// ARTICLE \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
 
-### My favorite post from last week !
+### My first Article !
 
 ### Content Curation Tools: 7 Must-Know Platforms
 
