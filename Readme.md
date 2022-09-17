@@ -13,14 +13,19 @@ You can get access to this MDI, copy this badge on your github or other.
 ```
 <p align="#"><a href="https://github.com/franckdun/MDI/"> <img src="https://img.shields.io/badge/🔭-MDI-f04c0b" width="#"></a></p>
 ```
-
-
-
 </details>
+
+<!-- //////////////////////////////////////////// NEW ARTICLE \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+## My favorite article of the week ! 17/09/2022
+
+
+
+
 
 <!-- //////////////////////////////////////////// ARTICLE \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
 
-## My favorite article of the week ! 06/09/2022
+### My favorite article of the week ! 06/09/2022
 
 ### the Merge
 
