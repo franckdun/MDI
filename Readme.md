@@ -12,19 +12,25 @@ You can get access to this Watch, copy this badge on your github or other.
 <p align="#"><a href="https://github.com/franckdun/MDI/"> <img src="https://img.shields.io/badge/🔭-MDI-f04c0b" width="#"></a></p>
 ```
 
+<!-- //////////////////////////////////////////// ARTICLE \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
 </details>
 
 ## My favorite article of the week ! 06/09/2022
 
 # the Merge
 
-<p align="center"><a href="https://ethereum.org/en/upgrades/merge/"> <img src="https://github.com/franckdun/MDI/blob/main/assets/img/merge.PNG" width="80%"></a></p>
+<p align="left"><a href="https://ethereum.org/en/upgrades/merge/"> <img src="https://github.com/franckdun/MDI/blob/main/assets/img/merge.PNG" width="20%"></a></p>
+
+<!-- //////////////////////////////////////////// ARTICLE \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
 
 ### My favorite post from last week !
 
 ### Content Curation Tools: 7 Must-Know Platforms
 
 <p align="left"><a href="https://cinqmars.fr/outils-de-curation-7-plateformes/"> <img src="https://github.com/franckdun/MDI/blob/main/assets/img/readme1.PNG" width="20%"></a></p>
+
+<!-- //////////////////////////////////////////// ARTICLE \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
 
 ---		
 		
