@@ -19,9 +19,12 @@ You can get access to this MDI, copy this badge on your github or other.
 
 ### My favorite article of the week ! 17/09/2022
 
-## Année charnière dans la régulation juridique et fiscale
 
-<p align="center"><a href="https://github.com/franckdun/MDI/blob/main/Articles/Ann%C3%A9e%20charni%C3%A8re%20dans%20la%20r%C3%A9gulation%20juridique%20et%20fiscale.pdf"> <img src="https://github.com/franckdun/MDI/blob/main/assets/img/Crypto_1.jpg" width="50%"></a></p>
+![Cryptomonnaies 2022 is a pivotal year in the legal regulation and tax.](https://github.com/franckdun/MDI/blob/main/Articles/Cryptomonnaies%202022%20is%20a%20pivotal%20year%20in%20the%20legal%20regulation%20and%20tax%20.pdf)
+
+## Année charnière dans la régulation juridique et fiscale.
+
+<p align="center"><a href="https://github.com/franckdun/MDI/blob/main/Articles/Ann%C3%A9e%20charni%C3%A8re%20dans%20la%20r%C3%A9gulation%20juridique%20et%20fiscale.pdf"><img src="https://github.com/franckdun/MDI/blob/main/assets/img/Crypto_1.jpg" width="50%"></a></p>
 
 <!-- //////////////////////////////////////////// ARTICLE \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
 
